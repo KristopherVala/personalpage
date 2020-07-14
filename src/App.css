@@ -24,9 +24,47 @@
   color: white;
 }
 
+.roundedImage{
+border-radius: 50%;
+
+}
+
 .App-link {
   color: #61dafb;
 }
+
+.about-body{
+margin:auto;
+background: grey;
+justify-content: center;
+width: 100%;
+height: 100%;
+}
+
+.about-grid{
+  text-align: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+
+}
+
+.project-a{
+  background: white;
+  height: 230px;
+  margin: 0px;
+
+}
+.project-b{
+  background: blue;
+  height:230px;
+  margin: 0px;
+}
+
+.projects-body{
+  background: wheat;
+}
+
 
 @keyframes App-logo-spin {
   from {
